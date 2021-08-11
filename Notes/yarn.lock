@@ -1598,7 +1598,7 @@ cosmiconfig@^5.0.5, cosmiconfig@^5.1.0:
     js-yaml "^3.13.1"
     parse-json "^4.0.0"
 
-create-react-class@^15.6.0, create-react-class@^15.6.3:
+create-react-class@^15.6.3:
   version "15.6.3"
   resolved "https://art01.apttuscloud.io/api/npm/npm/create-react-class/-/create-react-class-15.6.3.tgz#2d73237fb3f970ae6ebe011a9e66f46dbca80036"
   dependencies:
@@ -2493,12 +2493,6 @@ inquirer@^3.0.6:
     strip-ansi "^4.0.0"
     through "^2.3.6"
 
-invariant@2.2.0:
-  version "2.2.0"
-  resolved "https://art01.apttuscloud.io/api/npm/npm/invariant/-/invariant-2.2.0.tgz#c8d7e847366a49cc18b622f058a689d481e895f2"
-  dependencies:
-    loose-envify "^1.0.0"
-
 invariant@^2.2.2, invariant@^2.2.4:
   version "2.2.4"
   resolved "https://art01.apttuscloud.io/api/npm/npm/invariant/-/invariant-2.2.4.tgz#610f3c92c9359ce1db616e538008d23ff35158e6"
@@ -3173,10 +3167,6 @@ jsx-ast-utils@^2.0.1:
   dependencies:
     array-includes "^3.0.3"
     object.assign "^4.1.0"
-
-keymirror@0.1.1:
-  version "0.1.1"
-  resolved "https://art01.apttuscloud.io/api/npm/npm/keymirror/-/keymirror-0.1.1.tgz#918889ea13f8d0a42e7c557250eee713adc95c35"
 
 kind-of@^1.1.0:
   version "1.1.0"
@@ -4106,8 +4096,8 @@ path-key@^2.0.0, path-key@^2.0.1:
   resolved "https://art01.apttuscloud.io/api/npm/npm/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://art01.apttuscloud.io/api/npm/npm/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-to-regexp@^1.7.0:
   version "1.7.0"
@@ -4364,28 +4354,6 @@ react-native-vector-icons@^6.6.0:
     lodash "^4.0.0"
     prop-types "^15.6.2"
     yargs "^13.2.2"
-
-react-native-webview-bridge-updated@^1.0.0:
-  version "1.1.1"
-  resolved "https://art01.apttuscloud.io/api/npm/npm/react-native-webview-bridge-updated/-/react-native-webview-bridge-updated-1.1.1.tgz#f7110263f1cb279af544b495ac57012128c13145"
-  dependencies:
-    invariant "2.2.0"
-    keymirror "0.1.1"
-
-react-native-webview-bridge@^0.40.1:
-  version "0.40.1"
-  resolved "https://art01.apttuscloud.io/api/npm/npm/react-native-webview-bridge/-/react-native-webview-bridge-0.40.1.tgz#8a64a108c5687101e1da86e87fd707350a3f89fa"
-  dependencies:
-    create-react-class "^15.6.0"
-    invariant "^2.2.2"
-    keymirror "0.1.1"
-    prop-types "^15.5.10"
-
-react-native-zss-rich-text-editor@^1.1.0:
-  version "1.1.0"
-  resolved "https://art01.apttuscloud.io/api/npm/npm/react-native-zss-rich-text-editor/-/react-native-zss-rich-text-editor-1.1.0.tgz#c197d797a8ca65e46e2ccbe36e73fa2624d07c1c"
-  dependencies:
-    react-native-webview-bridge-updated "^1.0.0"
 
 react-native@0.60.4:
   version "0.60.4"
